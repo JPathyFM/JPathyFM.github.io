@@ -8,11 +8,11 @@ Postdoctoral Researecher at NC State University
 ## Education
 
 2007-2015
-__University Name__
+IBMCP-CSIC
 International PhD 
 
 2006-2008
-__University Name__
+COMAV (Polytechnique Universtiy of Valencia)
 MSc
 
 ## Awards
