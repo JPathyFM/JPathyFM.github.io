@@ -3,22 +3,22 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+Postdoctoral Researecher at NC State University
 
 ## Education
 
-`1990 - 1994`
+2007-2015
 __University Name__
-Degree Awarded
+International PhD 
 
-`1995 - 1997`
+2006-2008
 __University Name__
-Degree Awarded 
+MSc
 
 ## Awards
 
-`2012`
-Name of Award, Organization 
+2017
+Best PhD thesis, Polythecnic University of Valencia (Spain)
 
 ## Publications
 
